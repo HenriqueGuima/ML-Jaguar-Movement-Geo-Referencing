@@ -1,3 +1,8 @@
 *.csv
 *.db
 DataS1/jaguar_movement_data_cleaned.csv
+*.json
+*.tsv
+*.tfevents
+*.tmp
+
